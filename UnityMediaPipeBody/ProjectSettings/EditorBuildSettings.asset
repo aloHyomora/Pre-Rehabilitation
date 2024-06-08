@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Example Unity Render Streaming/Broadcast/Broadcast.unity
     guid: f47df8540d2ee994196abbd7365855f2
+  - enabled: 1
+    path: Assets/Scenes/MR Scene/BroadCastScene.unity
+    guid: 1837653e547001a44a73eb34bd93e0ba
+  - enabled: 1
+    path: Assets/Scenes/MR Scene/XREALReceiverScene.unity
+    guid: 624740fabac4072469d2f49bdd8df8e7
+  - enabled: 1
+    path: Assets/Scenes/MR Scene/InstructorReceiveScene.unity
+    guid: 00ee53b97d3b6864cb87fd5a12b0021b
+  - enabled: 1
+    path: Assets/Example Unity Render Streaming/Receiver/Receiver.unity
+    guid: d6a3fc68a1f7c05429fd88cc859bfaa1
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 801ae1560e0d8184193008c7c48006f6, type: 2}
     com.unity.renderstreaming.settings: {fileID: 11400000, guid: 039337c008e9a5c44a60f957eae3e450, type: 2}

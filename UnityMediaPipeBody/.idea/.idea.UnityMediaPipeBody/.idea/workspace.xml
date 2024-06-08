@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e2e73c7-972e-4cbe-be25-4763c6f078a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Material.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Exercise Render Texture.renderTexture" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Exercise Render Texture.renderTexture.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScen.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScen.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RenderStreamingProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RenderStreamingProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ReceiverInstructor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WebcamPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/VideoStreamSender.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -50,6 +53,14 @@
   }
 }]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/Pre-Hab/Receiver Sample PC\UnityMediaPipeHands.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\user\Desktop\Pre-Hab\Receiver Sample PC" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.30f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\user\Documents\GitHub\Pre-Rehabilitation\UnityMediaPipeBody -debugCodeOptimization" />
@@ -95,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717845546423</updated>
-      <workItem from="1717845547677" duration="3334000" />
+      <workItem from="1717845547677" duration="4537000" />
     </task>
     <servers />
   </component>
