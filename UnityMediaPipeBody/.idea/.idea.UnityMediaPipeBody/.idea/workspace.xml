@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e2e73c7-972e-4cbe-be25-4763c6f078a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonLibs/WebSocket/WebSocket.jslib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonLibs/WebSocket/WebSocket.jslib.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/WebcamBroadCastScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/WebcamBroadCastScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/VideoStreamSender.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -93,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717845546423</updated>
-      <workItem from="1717845547677" duration="683000" />
+      <workItem from="1717845547677" duration="1941000" />
     </task>
     <servers />
   </component>
