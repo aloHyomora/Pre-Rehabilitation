@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace Unity.RenderStreaming.Samples
 {
-    class ReceiverXREAL : MonoBehaviour
+    public class ReceiverXREAL : MonoBehaviour
     {
 #pragma warning disable 0649
         [SerializeField] private SignalingManager renderStreaming;
@@ -20,6 +20,7 @@ namespace Unity.RenderStreaming.Samples
         [SerializeField] private Button startButton;
         [SerializeField] private Button stopButton;
         [SerializeField] private Text resolution;
+        [SerializeField] private Text debugText;
 #pragma warning restore 0649
 
         private string connectionId;
@@ -45,7 +46,7 @@ namespace Unity.RenderStreaming.Samples
             inputSender.OnStartedChannel += OnStartedChannel;
 
             settings = SampleManager.Instance.Settings;
-            StartCoroutine(TestStart()); 
+            //StartCoroutine(TestStart()); 
         }
 
         void Start()
@@ -110,9 +111,13 @@ namespace Unity.RenderStreaming.Samples
             }
             connectionIdInput.interactable = false;
             if (settings != null)
+            {
+                debugText.text = "Settings is exist\n";
                 receiveVideoViewer.SetCodec(settings.ReceiverVideoCodec);
+            }
+            
             receiveAudioViewer.targetAudioSource = remoteAudioSource;
-
+            debugText.text += "Create Connection\n";
             connection.CreateConnection(connectionId);
             stopButton.gameObject.SetActive(true);
             startButton.gameObject.SetActive(false);
