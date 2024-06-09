@@ -14,8 +14,8 @@ namespace Unity.RenderStreaming.Samples
         [SerializeField] private RawImage remoteVideoImage;
         [SerializeField] private AudioSource remoteAudioSource;
         
-        // TODO : 이 부분 자동화하기
-        [SerializeField] private InputField connectionIdInput;
+        // TODO : 아래 부분 자동화하기
+        [SerializeField] private InputField connectionIdInput; // 임시로 
         [SerializeField] private Button startButton;
         [SerializeField] private Button stopButton;
         [SerializeField] private Text resolution;
@@ -107,8 +107,8 @@ namespace Unity.RenderStreaming.Samples
             receiveAudioViewer.targetAudioSource = remoteAudioSource;
 
             connection.CreateConnection(connectionId);
-            startButton.gameObject.SetActive(false);
             stopButton.gameObject.SetActive(true);
+            startButton.gameObject.SetActive(false);
         }
 
         private void OnStop()

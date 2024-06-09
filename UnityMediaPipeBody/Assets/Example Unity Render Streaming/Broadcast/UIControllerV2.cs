@@ -64,6 +64,7 @@ namespace Unity.RenderStreaming.Samples
         {
             if (m_rectTransform == null)
                 return;
+            Debug.Log("Video On Point UI");
             var position = context.ReadValue<Vector2>();
             var screenSize = new Vector2Int(Screen.width, Screen.height);
             position = position / screenSize * new Vector2(m_rectTransform.rect.width, m_rectTransform.rect.height);
@@ -74,6 +75,7 @@ namespace Unity.RenderStreaming.Samples
         {
             var button = context.ReadValueAsButton();
             pointer.color = button ? Color.red : Color.clear;
+            Debug.Log("Video On Press UI");
         }
     }
 }

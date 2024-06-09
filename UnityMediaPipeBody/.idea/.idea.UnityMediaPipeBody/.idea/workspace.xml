@@ -6,10 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="8e2e73c7-972e-4cbe-be25-4763c6f078a4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReceiverInstructor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReceiverInstructor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/RenderStreamingProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RenderStreamingProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/Broadcast.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/Broadcast.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/UIControllerV2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/UIControllerV2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Receiver/ReceiverInstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Receiver/ReceiverInstructor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/Receiver 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/Receiver 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +25,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/BroadcastDTx.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebugClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WebcamPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Editor/InputSystem/InputReceiverEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/Broadcast.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/DataChannelBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/InputReceiver.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/InputSender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/InputSystem/InputRemoting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/Signaling/WebSocketSignaling.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.renderstreaming@3.1.0-exp.7/Runtime/Scripts/VideoStreamSender.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -53,7 +66,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="$USER_HOME$/Desktop/Pre-Hab/Receiver Sample PC\UnityMediaPipeHands.exe" />
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/Pre-Hab/BroadCast WebcamAndVideo\UnityMediaPipeHands.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="C:\Users\user\Desktop\Pre-Hab\Receiver Sample PC" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -106,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717845546423</updated>
       <workItem from="1717845547677" duration="4537000" />
-      <workItem from="1717898833224" duration="2394000" />
+      <workItem from="1717898833224" duration="11293000" />
     </task>
     <servers />
   </component>
