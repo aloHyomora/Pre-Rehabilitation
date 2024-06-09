@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e2e73c7-972e-4cbe-be25-4763c6f078a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/Broadcast.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/Broadcast.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/UIControllerV2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Broadcast/UIControllerV2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Receiver/ReceiverInstructor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/Receiver/ReceiverInstructor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/BroadCastScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/Receiver 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/Receiver 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene2.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717845546423</updated>
       <workItem from="1717845547677" duration="4537000" />
-      <workItem from="1717898833224" duration="11293000" />
+      <workItem from="1717898833224" duration="12532000" />
     </task>
     <servers />
   </component>

@@ -194,7 +194,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 100 x 100
+  m_Text: 1920 x 1080
 --- !u!222 &21738251
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -612,7 +612,7 @@ Canvas:
   m_GameObject: {fileID: 528948622}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 710419882}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
