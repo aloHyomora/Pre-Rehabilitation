@@ -1893,7 +1893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bcc82901c3f48a88d3408251afa3365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_TextureSize: {x: 1280, y: 720}
+  m_TextureSize: {x: 1920, y: 1080}
   m_Source: 1
   m_Camera: {fileID: 2068519489}
   m_Texture: {fileID: 0}
