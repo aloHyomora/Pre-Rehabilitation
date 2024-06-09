@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e2e73c7-972e-4cbe-be25-4763c6f078a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NRSDK/Demos/TrackingImage/Images/TrackingImageDatabase.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/InstructorReceiveScene2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityMediaPipeBody/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Example Unity Render Streaming/RenderStreamingSample.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MR Scene/XREALReceiveScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MR Scene/XREALReceiveScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="$USER_HOME$/Desktop/Pre-Hab/BroadCast WebcamAndVideo\UnityMediaPipeHands.exe" />
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/Pre-Hab/Instructor Receive PC\UnityMediaPipeHands.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="C:\Users\user\Desktop\Pre-Hab\Receiver Sample PC" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -112,6 +114,7 @@
       <updated>1717845546423</updated>
       <workItem from="1717845547677" duration="4537000" />
       <workItem from="1717898833224" duration="12532000" />
+      <workItem from="1717927011196" duration="313000" />
     </task>
     <servers />
   </component>
