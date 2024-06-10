@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc8ba17751ad4107a50fa1415017b6b1, type: 3}
   m_Name: RenderStreamingSample
   m_EditorClassIdentifier: 
-  automaticStreaming: 0
+  automaticStreaming: 1
   signalingSettings:
     rid: 6278421619075710976
   references:
@@ -21,7 +21,7 @@ MonoBehaviour:
     - rid: 6278421619075710976
       type: {class: WebSocketSignalingSettings, ns: Unity.RenderStreaming, asm: Unity.RenderStreaming}
       data:
-        m_url: ws://172.20.10.8:80
+        m_url: ws://10.104.43.150:80
         m_iceServers:
         - m_urls:
           - stun:stun.l.google.com:19302

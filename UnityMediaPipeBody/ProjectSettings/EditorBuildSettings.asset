@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/MR Scene/BroadCastScene.unity
     guid: 1837653e547001a44a73eb34bd93e0ba
   - enabled: 0
+    path: Assets/Scenes/MR Scene/AndroidBroadCastScene.unity
+    guid: 4343911c19d1bd043831b0a6f6d75387
+  - enabled: 0
     path: Assets/Scenes/MR Scene/InstructorReceiveScene.unity
     guid: d9efda3d7af5d2946834719cd4ed8aee
   - enabled: 1
     path: Assets/Scenes/MR Scene/XREALReceiveScene.unity
     guid: 4b6a9635bcf9a2142b0c2347e04ed1d0
+  - enabled: 0
+    path: Assets/Scenes/MR Scene/AndroidReceiveScene.unity
+    guid: 1372f0a95dc67de4cbe6818719864d58
   - enabled: 0
     path: Assets/Example Unity Render Streaming/Menu/Menu.unity
     guid: f74260b9867fa524a9677fe64004f4f9
